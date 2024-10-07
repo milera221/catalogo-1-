@@ -1,5 +1,6 @@
-<!DOCTYPE ht
+{<!DOCTYPE ht
             margin: 20px 0;
+            height: auto;
             border-radius: 8px;
         }
         img {
@@ -7,27 +8,27 @@
             height: auto;
             border-radius: 8px;
         }
-    </style>
+{    </style>
 </head>
 <body>
-    <h1>Catálogo de Jogos</h1>
+    <h1>Catálogo de Jogos</h1> }
 
-    <div class="jogo">
+  {  <div class="jogo">
         <h2>VALORANT</h2>
         <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.fortnite.com%2F%40f4h1m%2F2282-6914-3725%3Flang%3Dpt-BR&psig=AOvVaw3eMULSldcr1788iOlhRBI8&ust=1728386400192000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLjH1tST_IgDFQAAAAAdAAAAABAJ" alt="VALORANT" width="600" height="400">
         <p>VALORANT é um jogo de tiro em primeira pessoa que combina táticas de equipe e habilidades únicas de personagens. Lançado pela Riot Games, é conhecido por sua jogabilidade competitiva.</p>
-    </div>
+    </div> }
 
-    <div class="jogo">
+ {   <div class="jogo">
         <h2>FORTNITE</h2>
         <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.playstation.com%2Fpt-br%2Ffortnite%2F&psig=AOvVaw1K7rDi2adzPbUDHKNAb_z7&ust=1728386934134000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIDws5uV_IgDFQAAAAAdAAAAABAE" alt="FORTNITE" width="600" height="400">
         <p>FORTNITE é um jogo de batalha real que combina construção e combate em um mundo colorido e dinâmico. Lançado pela Epic Games, é famoso por seus eventos ao vivo e colaborações com várias franquias.</p>
-    </div>
+    </div> }
 
-    <div class="jogo">
+{{    <div class="jogo">
         <h2>GTA V</h2>
         <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.eurogamer.pt%2Fgrand-theft-auto-5-guia-solucao-completa-conselhos-historia-multijogador-trofeus-achievements-xbox-360-e-ps3&psig=AOvVaw2WA0VSIahrasxY9UBgzMIr&ust=1728386990876000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCh67mV_IgDFQAAAAAdAAAAABAE" alt="GTA V" width="600" height="400">
         <p>GTA V é um jogo de ação e aventura em mundo aberto desenvolvido pela Rockstar Games. Os jogadores podem explorar a fictícia cidade de Los Santos, participar de missões e muito mais em um mundo rico e detalhado.</p>
-    </div>
+    </div> }
 </body>
-</html>
+</html> }
